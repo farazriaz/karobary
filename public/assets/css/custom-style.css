@@ -1,0 +1,60 @@
+/*your custom css goes here*/
+
+.input-group-append.d-none.d-lg-block {
+    background: #ecd026 !important;
+}
+
+button.btn.btn-primary {
+    background: #ecd026 !important;
+    border: #ecd026 !important;
+}
+
+.position-relative.logo-bar-area.z-1 {
+    background: #00c4ae !important;
+}
+
+span.badge.badge-primary.badge-inline.badge-pill {
+    background: #ecd026 !important;
+}
+
+button.btn.btn-soft-primary.mr-2.add-to-cart.fw-600 {
+    background: #ecd026;
+    color: #fff;
+}
+
+button.btn.btn-primary.buy-now.fw-600 {
+    background: #00c4ae !important;
+}
+
+
+strong#chosen_price {
+    color: #000 !important;
+}
+
+strong.h2.fw-600.text-primary {
+    color: #000 !important;
+}
+
+button.btn.btn-sm.btn-soft-primary {background: #00c4ae;color: #fff;}
+
+.rounded-top.p-3.d-flex.align-items-center.justify-content-center {
+    background: #ecd026;
+}
+
+.p-3.bg-soft-primary.d-none.d-lg-block.rounded-top.all-category.position-relative.text-left {
+    background: #ecd026 !important;
+}
+
+.gutters-5.lg-no-gutters.row.row-cols-2.row-cols-lg-1 .col.mb-2 {
+    border: 1px solid #00c4ae;
+}
+
+.border-primary {
+    border-color: #ecd026 !important;
+}
+
+a.ml-auto.mr-0.btn.btn-primary.btn-sm.shadow-md {
+    background: #ecd026;
+    border: none;
+    color: #000;
+}
