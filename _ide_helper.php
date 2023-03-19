@@ -18037,7 +18037,7 @@
          */ 
         public static function instantiateShopRepository()
         {
-                        return \MehediIitdu\CoreComponentRepository\CoreComponentRepository::instantiateShopRepository();
+                        return \MehediIitdu\CoreComponentRepository\// CoreComponentRepository::instantiateShopRepository();
         }
                     /**
          * 
@@ -18046,7 +18046,7 @@
          */ 
         public static function initializeCache()
         {
-                        return \MehediIitdu\CoreComponentRepository\CoreComponentRepository::initializeCache();
+                        return \MehediIitdu\CoreComponentRepository\// CoreComponentRepository::initializeCache();
         }
                     /**
          * 
